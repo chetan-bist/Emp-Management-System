@@ -53,3 +53,8 @@ form{
     /* justify-content: space-between; */
     gap: 10px;
   }
+  .bg-1{
+    padding: 15px 20px;
+    background-color: 
+    #512e5f;
+}
